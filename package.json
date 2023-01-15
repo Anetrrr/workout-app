@@ -1,0 +1,19 @@
+{
+  "name": "workout-app",
+  "version": "1.0.0",
+  "description": "Full stack workout application with the features of adding and deleting new workouts Frontend files",
+  "main": "server.js",
+  "scripts": {
+    "start": "cd backend && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anetrrr/workout-app.git"
+  },
+  "author": "Anetrrr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anetrrr/workout-app/issues"
+  },
+  "homepage": "https://github.com/Anetrrr/workout-app#readme"
+}
